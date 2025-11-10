@@ -52,32 +52,32 @@ This analysis combines exploratory data analysis, visualization, and storytellin
 
 ## 📊 Results
 
+### 🌍 **Global Highlights**
+- Most respondents are from **Europe** and **North America**.
+  
+The comparison between languages developers use today and those they want to learn next reveals clear market trends:
+- Java and C remain critical for legacy systems but show signs of decline in future interest, while Go and Rust stand out as emerging, high-value skills that could define the next wave of developer demand.  
+  
+### 🇺🇸 **U.S.-Specific Insights**
+
 <p align="center">
   <img src="https://github.com/edgalbinski/Compensation-Analysis-For-American-Developers/blob/main/Images/compensation_by_experience.png?raw=true" width="45%">
   <img src="https://github.com/edgalbinski/Compensation-Analysis-For-American-Developers/blob/main/Images/compensation_by_remotework.png?raw=true" width="45%">
   <br>
-  <em>Figure 1: Average Yearly Compensation by Years of Experience (left) and by Remote Work Status (right) — USA, Full-Time Employed</em>
+  <em>Figure 1: Average Yearly Compensation by Years of Experience (left) and by Remote Work Status (right) for Full-Time Employed Developers in the U.S.A</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/edgalbinski/Compensation-Analysis-For-American-Developers/blob/main/Images/compensation_by_lang%26dbs.png?raw=true" width="65%">
   <br>
-  <em>Figure 2: Average Yearly Compensation by Programming Languages and Databases — USA, Full-Time Employed</em>
+  <em>Figure 2: Average Yearly Compensation by Programming Languages and Databases for Full-Time Employed Developers in the U.S.A</em>
 </p>
 
 
-
-### 🌍 **Global Highlights**
-- Most respondents are from **Europe** and **North America**.
-  
-### The comparison between languages developers use today and those they want to learn next reveals clear market trends:
-- Java and C remain critical for legacy systems but show signs of decline in future interest, while Go and Rust stand out as emerging, high-value skills that could define the next wave of developer demand.  
-  
-### 🇺🇸 **U.S.-Specific Insights**
 - **Education:** Master’s degree holders earn the **highest average salary (~$143K)**. But that is **only $10k more per year** in average than developers with a Bachelor's or Professional Degree.   
 - **Remote Work:** Remote professionals earn **≈ $30K more** per year than in-person workers.  
 - **Experience:** Salaries rise steeply during the **first 10 years**, then stabilize around **$150K**. Work experience has very strong correlation to compensation for the first 10 years of a developer's career.  
-- **Technologies:** Bash/Shell, Python, and Redis users report above-average pay.  
+- **Technologies:** Developers using Bash/Shell and Redis report above-average pay. In contrast, whether a developer uses Python, JavaScript, SQL, or HTML does not appear to have a significant impact on compensation.   
 - **Job Satisfaction:** Weak correlation with pay — satisfaction depends on more than money.  
 
 ---
@@ -85,25 +85,29 @@ This analysis combines exploratory data analysis, visualization, and storytellin
 ## 💡 Recommendations
 
 1. **🎓 Invest in Practical Education**  
-   - Obtain at least a **Bachelor’s degree**; a Master’s adds value but experience and portfolio work matter more.  
+   - Obtain at least a **Bachelor’s degree**; a Master’s adds value but experience and portfolio work seem to matter more.
 
 2. **🌐 Embrace Remote Work Skills**  
    - Build communication, self-management, and digital collaboration skills. Remote-ready developers consistently earn more. The analysis suggests that among developers with at least a Bachelor's degree, working remotely makes a bigger difference in compensation than a Masters or a Professional Degree.   
 
 3. **💻 Focus on High-Demand Technologies**  
-   - Prioritize **Bash/Shell**, **Python**, **JavaScript**, **SQL**, and **modern databases** like **Redis** and **PostgreSQL**.  
+   - Prioritize **Bash/Shell**, **Python**, **JavaScript**, **SQL**, **HTML** and **modern databases** like **Redis** and **PostgreSQL**.  
    - Stay alert to emerging languages (**Go**, **Rust**) to stay ahead of industry demand.
-   - Get comfortable using **MacOS** for work and earn about **$20k more** per year **than Windows developers**
+   - Get comfortable using **MacOS** for work and earn on average about **$20k more** per year **than Windows developers**
 
-4. **🧭 Be Patient**  
-   - The first 10 years of a developer's career will be defined by a steep compensation increase.
-   - Continuous learning during the early stages is crucial to be up to date with new tools and technologies, which will become increasingly correlated with compensation for more experienced developers.
+4. **🧭 Study Now and be Patient With Compensation**  
+   - The first 10 years of a developer’s career are typically defined by a steep increase in compensation.
+   - Continuous learning is essential to stay current with emerging tools and technologies, which become increasingly correlated with compensation as developers gain experience.
+   - Developers who are still studying earn about half as much as those who have completed their studies.
+   - For this reason, it’s recommended to prioritize education and skill development during the first decade in order to maximize compensation.
+   - Since experience level is a limiting factor for compensation, and compensation growth tends to plateau after a decade, building a strong foundation of in-demand skills early is financially smart: It will have a lower opportunity cost as opposed to going back to school later on, and can position developers for higher earning potential once they reach 10+ years of experience.
+   - Note that developers will always need to keep learning in order to remain relevant in this rapidly changing market. 
 
 ---
 
 ## Conclusion & Next Steps
 
-This analysis shows that **remote adaptability, continuous learning, and technical versatility** are central to maximizing a developer’s market value in the U.S.  
+This analysis shows that **remote adaptability, continuous learning (specially for the first 10 years), and technical versatility** are central to maximizing a developer’s market value in the U.S.  
 
 While higher education remains beneficial, **career growth now depends more on adaptability** — the ability to learn quickly, communicate effectively, and integrate new technologies efficiently.
 
