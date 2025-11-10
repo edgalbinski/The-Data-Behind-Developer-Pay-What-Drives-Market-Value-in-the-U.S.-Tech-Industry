@@ -1,5 +1,5 @@
-# 💼 Maximizing Developer Market Value in the U.S.A  
-### *A Data-Driven Analysis Using the Stack Overflow Developer Survey*
+# 💼 The Data Behind Developer Pay: What Drives Market Value in the U.S. Tech Industry
+### *A Data-Driven Analysis to Guide Developers into a High-Earning Career in the U.S. Tech Industry*
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
@@ -14,9 +14,9 @@
 This project explores a key question for aspiring software developers:  
 > **“What should developers focus on to maximize their market value in the U.S.?”**  
 
-Leveraging data from a global developer survey, this analysis identifies which **skills, education levels, technologies, and work arrangements** have the strongest relationship with **compensation** in the United States.  
+Leveraging data from the Stack Overflow Developer Survey, this analysis identifies which **skills, education levels, technologies, experience and work arrangements** have the strongest relationship with **compensation** in the United States.  
 
-Key findings reveal that while **education and experience** play an important role, the **ability to work remotely**, **proficiency in modern technologies**, and **adaptability** are the most powerful drivers of long-term earning potential.
+Key findings reveal that while **education and experience** play an important role in specific stages of the developer's career, the **ability to work remotely**, **proficiency in modern technologies**, and **adaptability** are the most powerful drivers of long-term earning potential.
 
 ---
 
