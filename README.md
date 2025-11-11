@@ -12,9 +12,9 @@
 
 ## 🧠 Executive Summary
 This project explores a key question for aspiring software developers:  
-> **“What should developers focus on to maximize their market value in the U.S.?”**  
+> **“How to maximize compensation in the U.S.A?”**  
 
-Leveraging data from the Stack Overflow Developer Survey, this analysis identifies which **skills, education levels, technologies, experience and work arrangements** have the strongest relationship with **compensation** in the United States.  
+Using the data from the Stack Overflow Developer Survey, this analysis identifies which **skills, education levels, technologies, experience and work arrangements** have the strongest relationship with **compensation** in the United States.  
 
 Key findings reveal that while **education and experience** play an important role in specific stages of the developer's career, the **ability to work remotely**, **proficiency in modern technologies**, and **adaptability** are the most powerful drivers of long-term earning potential.
 
@@ -23,10 +23,10 @@ Key findings reveal that while **education and experience** play an important ro
 ## 🎯 Introduction
 
 **Objective:**
-This analysis combines exploratory data analysis, visualization, and storytelling to uncover actionable insights into developer compensation trends in the U.S.
+This analysis combines exploratory data analysis, visualizations, and storytelling to uncover actionable insights into developer compensation trends in the U.S.
 
 **Key Question:**  
-*What should aspiring developers focus on in order to maximize their market value in the USA?*
+*How Developers can to maximize their income in the U.S.A tech industry?*
 
 ---
 
@@ -54,9 +54,10 @@ This analysis combines exploratory data analysis, visualization, and storytellin
 
 ### 🌍 **Global Highlights**
 - Most respondents are from **Europe** and **North America**.
+- When we analyse the countries with the highest compensation for each region we can see that the U.S.A has the highest avegare compensation in the world. But the U.S.A also has the largest variance in compensation between developers, pointing to the huge inequality in pay the American job market experiences. 
   
-The comparison between languages developers use today and those they want to learn next reveals clear market trends:
-- Java and C remain critical for legacy systems but show signs of decline in future interest, while Go and Rust stand out as emerging, high-value skills that could define the next wave of developer demand.  
+The comparison between languages developers use today and those they want to learn next reveals some market trends:
+- **Java and C** remain critical for legacy systems but show signs of decline in future interest, while **Go and Rust** stand out as emerging skills that could soon be requirements for high-paying and innovative positions.  
   
 ### 🇺🇸 **U.S.-Specific Insights**
 
@@ -74,26 +75,26 @@ The comparison between languages developers use today and those they want to lea
 </p>
 
 
-- **Education:** Master’s degree holders earn the **highest average salary (~$143K)**. But that is **only $10k more per year** in average than developers with a Bachelor's or Professional Degree.   
-- **Remote Work:** Remote professionals earn **≈ $30K more** per year than in-person workers.  
-- **Experience:** Salaries rise steeply during the **first 10 years**, then stabilize around **$150K**. Work experience has very strong correlation to compensation for the first 10 years of a developer's career.  
-- **Technologies:** Developers using Bash/Shell and Redis report above-average pay. In contrast, whether a developer uses Python, JavaScript, SQL, or HTML does not appear to have a significant impact on compensation.   
-- **Job Satisfaction:** Weak correlation with pay — satisfaction depends on more than money.  
+- **Education:** As expected, master’s degree holders earn the **highest average salary (~$143K)**. But surprisingly that's **only $10k more per year** in average than developers with a Bachelor's or Professional Degree.   
+- **Remote Work:** Remote professionals earn **≈ $30K more** per year than in-person workers. This is a very significant difference, and points to a big shift in how industry-leading developers work in today's market. 
+- **Experience:** Salaries rise steeply during the **first 10 years** of experience, then stabilize around **$150K** for developers with more than 10 years of experience. We see that work experience has very strong correlation to compensation for the first 10 years of a developer's career, but after that other factors come into play to determine compensation.
+- **Technologies:** Developers using **Bash/Shell** report above-average pay. But whether a developer uses **Python, JavaScript, SQL, or HTML** does not appear to have a significant impact on compensation. **Redis** stands out as the database that correlates to higher compensation.   
+- **Job Satisfaction:** Surprinsigly weak correlation with pay — it appears that satisfaction depends on more than money (or at least that's how respondents answered the survey).  
 
 ---
 
 ## 💡 Recommendations
 
 1. **🎓 Invest in Practical Education**  
-   - Obtain at least a **Bachelor’s degree**; a Master’s adds value but experience and portfolio work seem to matter more.
+   - Obtain at least a **Bachelor’s degree**; a Master’s adds value, but experience (specially early in the career), up-to-date skills, and a great portfolio seem to matter more. Of course getting a specialized Master's is a great way to develop up-to-date skills, and build a strong portfolio!  
 
 2. **🌐 Embrace Remote Work Skills**  
-   - Build communication, self-management, and digital collaboration skills. Remote-ready developers consistently earn more. The analysis suggests that among developers with at least a Bachelor's degree, working remotely makes a bigger difference in compensation than a Masters or a Professional Degree.   
+   - Build communication, self-management, and digital collaboration skills. Remote-ready developers consistently earn more. The analysis suggests that among developers with at least a Bachelor's degree, working remotely makes a bigger difference in compensation than having a Masters or a Professional Degree.   
 
 3. **💻 Focus on High-Demand Technologies**  
    - Prioritize **Bash/Shell**, **Python**, **JavaScript**, **SQL**, **HTML** and **modern databases** like **Redis** and **PostgreSQL**.  
    - Stay alert to emerging languages (**Go**, **Rust**) to stay ahead of industry demand.
-   - Get comfortable using **MacOS** for work and earn on average about **$20k more** per year **than Windows developers**
+   - Get comfortable with MacOS for work, as **MacOS developers** earn on average about **$20k more** per year **than Windows developers**. Keep in mind that this could reflect what systems top-paying organizations prefer, we should not infer that developers that use Windows are worse than MacOS developers. 
 
 4. **🧭 Study Now and be Patient With Compensation**  
    - The first 10 years of a developer’s career are typically defined by a steep increase in compensation.
@@ -109,7 +110,7 @@ The comparison between languages developers use today and those they want to lea
 
 This analysis shows that **remote adaptability, continuous learning (specially for the first 10 years), and technical versatility** are central to maximizing a developer’s market value in the U.S.  
 
-While higher education remains beneficial, **career growth now depends more on adaptability** — the ability to learn quickly, communicate effectively, and integrate new technologies efficiently.
+While higher education remains beneficial, **career growth now depends more on adaptaptability** — the ability to learn new tools quickly, communicate effectively, and integrate new technologies efficiently.
 
 ### 🔮 Next Steps
 - Integrate **job market data** (LinkedIn/Indeed APIs) to validate compensation trends.  
